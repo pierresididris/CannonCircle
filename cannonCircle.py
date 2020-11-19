@@ -1,4 +1,4 @@
-AREA = """
+REA = """
        ##
       #  #
     C#    #C
@@ -10,6 +10,7 @@ AREA = """
       #  #
        ## 
 """
+
 
 REWARD_GOAL = 60
 REWARD_DEFAULT = -1
